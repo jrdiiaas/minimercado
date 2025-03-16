@@ -10,12 +10,11 @@ O projeto é organizado da seguinte forma:
 minimercado
 ├── public
 │   ├──img                                   # Imagens dos produtos
-├── src
-│   ├── index.html                        # Página inicial do sistema web
-│   ├── alimenticios.html             # Página que exibe os produtos da categoria alimenticios
-│   ├── frutaseverduras.html       # Página que exibe os produtos da categoria frutas e verduras
-│   ├── higieneelimpeza.html      # Página que exibe os produtos da categoria higiene e limpeza
-│   ├── servicos.html                   # Página que apresenta os serviços oferecidos
+├── index.html                        # Página inicial do sistema web
+├── alimenticios.html             # Página que exibe os produtos da categoria alimenticios
+├── frutaseverduras.html       # Página que exibe os produtos da categoria frutas e verduras
+├── higieneelimpeza.html      # Página que exibe os produtos da categoria higiene e limpeza
+├── servicos.html                   # Página que apresenta os serviços oferecidos
 └── README.md                         # Documentação do projeto
 ```
 
